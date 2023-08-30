@@ -4,7 +4,7 @@
 This is a simple HTML and JavaScript code that allows the user to enter a keyword and then displays the keyword on the screen.
 
 
-# Hosted link: 
+# Hosted link: https://hackerbubai007.github.io/Module-6_JS_Class_Assignment/Class_Assignment-11_(KeyCode)/index.html
 
 ## Step 1: HTML Code
 
